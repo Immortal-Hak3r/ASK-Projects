@@ -1,2 +1,3 @@
-# kalori.py
-This is a ASK project for form 2 (pg 131)
+# ASK-Projects
+This is a repository for all of my Form 2 ASK Project 
+All code in here are from ASK Book Text Form 2
